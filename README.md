@@ -5,7 +5,7 @@ Esta plataforma foi um trabalho desenvolvido para o curso de Full Stack da Kenzi
 Através de uma api já pré-desenvolvida foi criada uma plataforma para registro pessoal das tecnologias utilizadas pelo desenvolvedor
 bem como alguns de seus projetos.
 
-###Versão publicada no vercel desenvolvida em **React**: https://react-entrega-s2-kenzie-hub-danielmsatiro.vercel.app/
+### Versão publicada no vercel desenvolvida em **React**: https://react-entrega-s2-kenzie-hub-danielmsatiro.vercel.app/
 
 ### Tecnologias utilizadas:
 - `Material Design`.
